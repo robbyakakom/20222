@@ -1,0 +1,20 @@
+TUGAS RUMAH
+-----------
+
+Buatlah tampilan form 
+
+    "Data Mahasiswa"
+
+    NIM : [input text]
+    Nama Mahasiswa : [input text]
+    Program Studi : [input text]
+    Email : [input text]
+    Alamat : [textarea]
+    IPK : [input text]
+
+    [SUBMIT]
+
+Buatlah file php untuk menampilkan isi data dari form di atas
+
+Hasil yang dikumpulkan adalah 
+Screen shoot tampilan layar penuh untuk file program form dan tampilannya lalu tampilan ketika di jalankan pada browser.
